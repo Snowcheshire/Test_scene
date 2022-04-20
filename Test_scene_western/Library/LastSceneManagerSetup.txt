@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Graphic_arts/Scene/Test.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
